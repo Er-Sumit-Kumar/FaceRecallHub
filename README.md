@@ -172,6 +172,12 @@ Avoid opening the HTML file directly with `file://`; use the Python server URL.
 The Python server serves the frontend and API from the same origin. There is no
 frontend development server or separate proxy to start.
 
+<img src="Gallery/HomePage.png" alt="App Screenshot" width="500"/>
+<img src="Gallery/Register.png" alt="App Screenshot" width="500"/>
+<img src="Gallery/LiveRecoginition.png" alt="App Screenshot" width="500"/>
+<img src="Gallery/ManualScan.png" alt="App Screenshot" width="500"/>
+<img src="Gallery/Records.png" alt="App Screenshot" width="500"/>
+
 ## Application and data flow
 
 1. The browser serves `frontend\index.html`, then loads `styles.css` and
